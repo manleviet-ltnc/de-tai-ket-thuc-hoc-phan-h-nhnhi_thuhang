@@ -1,0 +1,20 @@
+E:\Documents\GitHub\Đề tài kết thúc học phần\Game space frontier\Game space frontier\bin\Debug\Game space frontier.exe.config
+E:\Documents\GitHub\Đề tài kết thúc học phần\Game space frontier\Game space frontier\bin\Debug\Game space frontier.exe
+E:\Documents\GitHub\Đề tài kết thúc học phần\Game space frontier\Game space frontier\bin\Debug\Game space frontier.pdb
+E:\Documents\GitHub\Đề tài kết thúc học phần\Game space frontier\Game space frontier\obj\Debug\Game space frontier.csprojResolveAssemblyReference.cache
+E:\Documents\GitHub\Đề tài kết thúc học phần\Game space frontier\Game space frontier\obj\Debug\Game_space_frontier.Form1.resources
+E:\Documents\GitHub\Đề tài kết thúc học phần\Game space frontier\Game space frontier\obj\Debug\Game_space_frontier.Properties.Resources.resources
+E:\Documents\GitHub\Đề tài kết thúc học phần\Game space frontier\Game space frontier\obj\Debug\Game space frontier.csproj.GenerateResource.Cache
+E:\Documents\GitHub\Đề tài kết thúc học phần\Game space frontier\Game space frontier\obj\Debug\Game space frontier.csproj.CoreCompileInputs.cache
+E:\Documents\GitHub\Đề tài kết thúc học phần\Game space frontier\Game space frontier\obj\Debug\Game space frontier.exe
+E:\Documents\GitHub\Đề tài kết thúc học phần\Game space frontier\Game space frontier\obj\Debug\Game space frontier.pdb
+E:\Documents\GitHub\Đề tài kết thúc học phần\de-tai-ket-thuc-hoc-phan-h-nhnhi_thuhang\Game space frontier\Game space frontier\bin\Debug\Game space frontier.exe.config
+E:\Documents\GitHub\Đề tài kết thúc học phần\de-tai-ket-thuc-hoc-phan-h-nhnhi_thuhang\Game space frontier\Game space frontier\bin\Debug\Game space frontier.exe
+E:\Documents\GitHub\Đề tài kết thúc học phần\de-tai-ket-thuc-hoc-phan-h-nhnhi_thuhang\Game space frontier\Game space frontier\bin\Debug\Game space frontier.pdb
+E:\Documents\GitHub\Đề tài kết thúc học phần\de-tai-ket-thuc-hoc-phan-h-nhnhi_thuhang\Game space frontier\Game space frontier\obj\Debug\Game space frontier.csprojResolveAssemblyReference.cache
+E:\Documents\GitHub\Đề tài kết thúc học phần\de-tai-ket-thuc-hoc-phan-h-nhnhi_thuhang\Game space frontier\Game space frontier\obj\Debug\Game_space_frontier.Form1.resources
+E:\Documents\GitHub\Đề tài kết thúc học phần\de-tai-ket-thuc-hoc-phan-h-nhnhi_thuhang\Game space frontier\Game space frontier\obj\Debug\Game_space_frontier.Properties.Resources.resources
+E:\Documents\GitHub\Đề tài kết thúc học phần\de-tai-ket-thuc-hoc-phan-h-nhnhi_thuhang\Game space frontier\Game space frontier\obj\Debug\Game space frontier.csproj.GenerateResource.Cache
+E:\Documents\GitHub\Đề tài kết thúc học phần\de-tai-ket-thuc-hoc-phan-h-nhnhi_thuhang\Game space frontier\Game space frontier\obj\Debug\Game space frontier.csproj.CoreCompileInputs.cache
+E:\Documents\GitHub\Đề tài kết thúc học phần\de-tai-ket-thuc-hoc-phan-h-nhnhi_thuhang\Game space frontier\Game space frontier\obj\Debug\Game space frontier.exe
+E:\Documents\GitHub\Đề tài kết thúc học phần\de-tai-ket-thuc-hoc-phan-h-nhnhi_thuhang\Game space frontier\Game space frontier\obj\Debug\Game space frontier.pdb
